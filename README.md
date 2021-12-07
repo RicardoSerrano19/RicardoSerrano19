@@ -6,7 +6,7 @@
 
 <br />
 
-## Languages and Tools:
+## :hammer: Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -26,24 +26,22 @@
 ---
 
 
+## GitHub Summary
 
-<details>
-  <summary>GitHub Stats</summary>
+<br />
 
+### ⚡ GitHub Stats
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RicardoSerrano19" />
-</details>
+  
+<br />
 
-<details>
-  <summary>Most Used Lenguages</summary>
-
+### ⚡ Most Used Lenguages
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoSerrano19" />
-</details>
+  
+<br />
 
-<details>
-  <summary>Streak Stats</summary>
-
+### ⚡ Streak Stats
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoSerrano19" />
-</details>
 
 
 
