@@ -28,17 +28,16 @@
 
 ## GitHub Summary
 
-<br />
-
 ### ⚡ GitHub Stats
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RicardoSerrano19" />
-  
-<br />
+
+<br>
 
 ### ⚡ Most Used Lenguages
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoSerrano19" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoSerrano19"/>
   
-<br />
+
+<br>
 
 ### ⚡ Streak Stats
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoSerrano19" />
