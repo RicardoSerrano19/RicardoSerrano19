@@ -31,14 +31,9 @@
 ### ⚡ GitHub Stats
   ![](https://github-readme-stats.vercel.app/api?username=RicardoSerrano19)
 
-
-
 ### ⚡ Most Used Lenguages
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoSerrano19)
   
-
-<br>
-
 ### ⚡ Streak Stats
   ![](https://github-readme-streak-stats.herokuapp.com/?user=RicardoSerrano19)
 
